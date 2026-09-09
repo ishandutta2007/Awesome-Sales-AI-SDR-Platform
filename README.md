@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[11x.ai](https://www.11x.ai/)**  
-
-  High-profile AI SDR platform (Alice and related agents) for multi-channel autonomous prospecting, research, outreach, and follow-up across email, LinkedIn, and more.
-
-
-
-- **[Artisan AI](https://www.artisan.co/)**  
-
-  Full-stack AI BDR/SDR (Ava) that combines data, personalization, sequencing, and outbound execution in one product.
-
-
-
-- **[Regie.ai](https://www.regie.ai/)**  
-
-  AI sales platform focused on content generation, prospecting agents, and workflow automation that integrates with existing sequencers.
-
-
-
-- **[AiSDR](https://aisdr.com/)**  
-
-  Meeting-focused AI SDR agent with transparent pricing, intent-based targeting, personalized sequences, and outbound automation.
-
-
-
-- **[Jason AI by Reply.io](https://reply.io/)**  
-
-  AI-assisted outreach and sequencing capabilities within the Reply.io engagement platform.
-
-
-
-- **[Humantic AI](https://humantic.ai/)**  
-
-  Personality and buyer-intelligence platform often used to personalize AI and human outreach at scale.
-
-
-
-- **[Persana AI](https://persana.ai/)**  
-
-  AI sales and prospecting tools for research, personalization, and outbound workflows.
-
-
-
-- **[Landbase](https://www.landbase.com/)**  
-
-  AI-driven go-to-market and outbound platform focused on account and contact intelligence plus outreach.
-
-
-
-- **[Octave](https://www.octavehq.com/)**  
-
-  AI sales platform oriented toward messaging, personalization, and pipeline generation.
-
-
-
-- **[Agent Frank (Salesforge and similar)](https://www.salesforge.ai/)**  
-
-  AI agents specialized in high-volume cold email and outbound sequencing.
+| Platform | Description | Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[11x.ai](https://www.11x.ai/)** | Multi-channel autonomous prospecting, research, outreach, and follow-up (Alice & Jordan). | Starts at $3,750/month (billed annually at $45,000/yr for Growth tier; 2,000 new prospects/mo, 5 seats) | No free tier or trial; sales-led demo with sample outreach run only |
+| **[Artisan AI](https://www.artisan.co/)** | Full-stack outbound platform with AI BDR Ava managing research, copywriting, and multi-channel outreach. | Starts at $250/month (billed annually for Intern plan; includes 12,000 credits) | Free forever plan: 300 credits/month, 1 AI SDR (Ava), basic campaign tools & CRM sync |
+| **[Regie.ai](https://www.regie.ai/)** | AI prospecting agents and automated sequence content generation that integrates into sales workflows. | Starts at $49/month (RegieGO Pro; $40/mo billed annually) or $180/user/month (RegieOne Team; 10-seat min) | Free forever plan (RegieGO): 250 one-time credit allotment for research, drafting, and Chrome extension |
+| **[AiSDR](https://aisdr.com/)** | Autonomous outbound email and LinkedIn SDR agent targeting intent leads and booking qualified meetings. | Starts at $250/month (Solo plan, month-to-month; 200 AI-researched contacts, 1 domain, 3 mailboxes) | No free tier or platform trial; interactive AI Strategist demo generates 1 free custom outbound GTM campaign plan |
+| **[Jason AI by Reply.io](https://reply.io/)** | Autonomous AI SDR module built into Reply.io for automated cold email, LinkedIn sequences, and handling responses. | Starts at $500/month (billed annually; includes active contact management & multi-channel automation) | 14-day free trial (Reply.io core platform): includes basic AI template generator, 200 email search credits, and sequence tools (autonomous Jason AI agent requires demo/paid tier) |
+| **[Humantic AI](https://humantic.ai/)** | Buyer intelligence and personality profiling (DISC/Big Five) for hyper-personalized messaging and pitch optimization. | Starts at $90/month (billed annually at $1,080/yr for Individual/Starter tier) | 7-day free trial: provides full platform access up to 50 personality profile reports without requiring a credit card |
+| **[Persana AI](https://persana.ai/)** | AI sales prospecting engine with multi-source waterfall enrichment and intelligent agent workflows. | Starts at $85/month ($68/month billed annually; includes 7,500 enrichment credits/mo) | Free forever plan: 50 credits/month, basic enrichment lookups, and standard CRM integration |
+| **[Landbase](https://www.landbase.com/)** | Autonomous GTM platform delivering contact intelligence, predictive scoring, and multi-channel campaign execution. | Starts at $499/month (Data enrichment bundle; 15,000 verified contact credits) or $3,000/month for full autonomous platform | Free forever tier: 1,000 free credits at signup for audience discovery, campaign planning, and draft generation (sending disabled) |
+| **[Octave](https://www.octavehq.com/)** | AI agent platform for B2B outbound messaging, value proposition modeling, and pipeline acceleration. | Starts at $149/month ($119/month billed annually for Core plan; 4,000 credits, 8 playbooks, 24 agents) | Free forever plan (Lite): 100 credits, 2 workspaces, 2 playbooks, 4 agents, and community support |
+| **[Agent Frank (Salesforge)](https://www.salesforge.ai/)** | Autonomous AI outbound rep managing lead enrichment, deliverability, personalized cold email, and follow-ups. | Starts at $499/month (Agent Frank base tier, quarterly/annual commitment; 1,000 active contacts managed) | No free tier or trial; personalized 1-on-1 demo with custom ICP and sequence configuration |
 
 
 
