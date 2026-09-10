@@ -40,6 +40,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Market Size & Landscape Dynamics:** The global AI SDR & AI Sales Agent market is estimated at **~$4.4B – $5B in 2025/2026** and projected to scale past **$15B–$40B+ by 2030–2034** (~30% CAGR). The sector is currently **highly fragmented** rather than concentrated or winner-take-all, driven by rapid emergence of specialized AI-native startups, diverse GTM use cases (high-velocity outbound vs. enterprise multi-stakeholder deals), and intense co-existence/competition with incumbent CRM and sales engagement suites.
+
 | Platform | Description | Scale (Valuation / Revenue / Funding) | Pricing | Free Tier Limits |
 | :--- | :--- | :--- | :--- | :--- |
 | **[11x.ai](https://www.11x.ai/)** | Multi-channel autonomous prospecting, research, outreach, and follow-up (Alice & Jordan). | **~$350M valuation** ($76M total raised, ~$10M ARR) | Starts at $3,750/month (billed annually at $45,000/yr for Growth tier; 2,000 new prospects/mo, 5 seats) | No free tier or trial; sales-led demo with sample outreach run only |
