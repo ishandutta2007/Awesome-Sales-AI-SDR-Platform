@@ -59,63 +59,68 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[OpenCloser](https://github.com/issacops/opencloser-v2)**  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+  The open-source CRM alternative to Salesforce, designed natively for AI agents, automated sales pipelines, and customizable CRM workflows.
 
-  Open-source, local-first AI sales platform — strategist, lead researcher, voice caller (SDR), coach, and manager agents running on the desktop with CRM features.
+- **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+  Open-source scheduling and meeting booking infrastructure, widely embedded into AI SDR agents for autonomous meeting handoffs and qualification booking.
 
+- **[Composio](https://github.com/ComposioHQ/composio)** [![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=social&color=white)](https://github.com/ComposioHQ/composio/stargazers)  
+  Agent tooling and integration platform providing 1000+ connectors (Gmail, HubSpot, Salesforce, Slack, LinkedIn) to build custom autonomous sales and SDR agent workflows.
 
+- **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** [![GitHub stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
+  Autonomous deep research agent capable of executing comprehensive multi-source prospect, company intelligence, and account-level research for personalized outbound.
 
-- **[FundzWatch AI SDR / event-driven agents](https://github.com/Fund-z/fundzwatch-ai-sdr)**  
+- **[SalesGPT](https://github.com/filip-michalsky/SalesGPT)** [![GitHub stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social&color=white)](https://github.com/filip-michalsky/SalesGPT/stargazers)  
+  Open-source, context-aware AI sales agent architecture for multi-stage sales conversations, objection handling, qualification, and automated multi-channel dialogue.
 
-  Open-source AI SDR agent that finds, scores, and drafts personalized outreach based on real-time business events (funding, leadership changes, etc.).
+- **[Warmbly](https://github.com/warmbly/warmbly)** [![GitHub stars](https://img.shields.io/github/stars/warmbly/warmbly?style=social&color=white)](https://github.com/warmbly/warmbly/stargazers)  
+  Open-source cold outreach and email deliverability warmup platform designed to protect sender domain reputation during automated sales cadences.
 
+- **[B2B SDR Agent Template](https://github.com/iPythoning/b2b-sdr-agent-template)** [![GitHub stars](https://img.shields.io/github/stars/iPythoning/b2b-sdr-agent-template?style=social&color=white)](https://github.com/iPythoning/b2b-sdr-agent-template/stargazers)  
+  Production-oriented open template for building autonomous multi-channel AI SDRs (WhatsApp, Telegram, Email) featuring a 10-stage sales pipeline and multi-engine memory.
 
+- **[Email-automation](https://github.com/PaulleDemon/Email-automation)** [![GitHub stars](https://img.shields.io/github/stars/PaulleDemon/Email-automation?style=social&color=white)](https://github.com/PaulleDemon/Email-automation/stargazers)  
+  Open-source cold email scheduling, dispatch, and sequence outreach tool for managing outbound campaigns.
 
-- **[ai-sdr (CrewAI multi-agent)](https://github.com/avcap/ai-sdr)**  
+- **[GenAI Cold Email Generator](https://github.com/codebasics/project-genai-cold-email-generator)** [![GitHub stars](https://img.shields.io/github/stars/codebasics/project-genai-cold-email-generator?style=social&color=white)](https://github.com/codebasics/project-genai-cold-email-generator/stargazers)  
+  End-to-end cold email generation engine utilizing Llama 3.1, LangChain, ChromaDB, and web scraping to extract job/company context and draft targeted pitches.
 
-  Multi-agent AI SDR platform using CrewAI for prospecting, personalization, outreach, and campaign coordination with email sequence support.
+- **[Forward Deployed Selling](https://github.com/vonarmen-wq/forward-deployed-selling)** [![GitHub stars](https://img.shields.io/github/stars/vonarmen-wq/forward-deployed-selling?style=social&color=white)](https://github.com/vonarmen-wq/forward-deployed-selling/stargazers)  
+  Enterprise sales methodology and tactical sales skills framework implemented for AI agents and Claude Code to execute outbound research and account planning.
 
+- **[Awesome AI Agents for Sales](https://github.com/Salesably/awesome-ai-agents-for-sales)** [![GitHub stars](https://img.shields.io/github/stars/Salesably/awesome-ai-agents-for-sales?style=social&color=white)](https://github.com/Salesably/awesome-ai-agents-for-sales/stargazers)  
+  Curated list and ecosystem map of open-source AI sales agents, prospecting frameworks, and sales intelligence tools.
 
+- **[OpenSDR](https://github.com/MatthewDailey/open-sdr)** [![GitHub stars](https://img.shields.io/github/stars/MatthewDailey/open-sdr?style=social&color=white)](https://github.com/MatthewDailey/open-sdr/stargazers)  
+  Command-line AI SDR tool designed to automate prospect company research, qualification, and outbound lead generation workflows.
 
-- **[opensource-sales-ops](https://github.com/mukul-07/opensource-sales-ops)**  
+- **[AI-SDR (n8n Workflow)](https://github.com/AntraTripathi74/AI-SDR)** [![GitHub stars](https://img.shields.io/github/stars/AntraTripathi74/AI-SDR?style=social&color=white)](https://github.com/AntraTripathi74/AI-SDR/stargazers)  
+  n8n workflow blueprint that automates lead discovery, web scraping, Google search research, Gemini 1.5 enrichment, and personalized draft generation.
 
-  Local-first, human-in-the-loop AI SDR pipeline for Claude Code — scans prospects, qualifies, drafts outreach, and manages cadence (never auto-sends).
+- **[AI SDR/BDR Agent](https://github.com/brightdata/ai-sdr-bdr-agent)** [![GitHub stars](https://img.shields.io/github/stars/brightdata/ai-sdr-bdr-agent?style=social&color=white)](https://github.com/brightdata/ai-sdr-bdr-agent/stargazers)  
+  AI-powered BDR system that automates lead discovery, business trigger detection, contact enrichment, and personalized outreach.
 
+- **[OpenCloser](https://github.com/issacops/opencloser-v2)** [![GitHub stars](https://img.shields.io/github/stars/issacops/opencloser-v2?style=social&color=white)](https://github.com/issacops/opencloser-v2/stargazers)  
+  Open-source, local-first AI sales platform with strategist, lead researcher, voice caller (SDR), coach, and manager agents running on desktop with CRM capabilities.
 
+- **[opensource-sales-ops](https://github.com/mukul-07/opensource-sales-ops)** [![GitHub stars](https://img.shields.io/github/stars/mukul-07/opensource-sales-ops?style=social&color=white)](https://github.com/mukul-07/opensource-sales-ops/stargazers)  
+  Local-first, human-in-the-loop AI SDR pipeline for Claude Code — scans prospects, qualifies leads, drafts outreach, and manages cadences without auto-sending.
 
-- **[SalesGPT and conversational sales agents](https://github.com/)**  
+- **[ai-sdr (CrewAI Multi-Agent)](https://github.com/avcap/ai-sdr)** [![GitHub stars](https://img.shields.io/github/stars/avcap/ai-sdr?style=social&color=white)](https://github.com/avcap/ai-sdr/stargazers)  
+  Multi-agent AI SDR platform using CrewAI for autonomous prospecting, lead personalization, outreach drafting, and campaign coordination.
 
-  Open LLM-based sales conversation agents that handle stages such as qualification, objection handling, and multi-channel dialogue.
+- **[FundzWatch AI SDR](https://github.com/Fund-z/fundzwatch-ai-sdr)** [![GitHub stars](https://img.shields.io/github/stars/Fund-z/fundzwatch-ai-sdr?style=social&color=white)](https://github.com/Fund-z/fundzwatch-ai-sdr/stargazers)  
+  Event-driven open-source AI SDR agent that discovers, scores, and crafts personalized outreach based on real-time corporate events (funding rounds, executive hires).
 
+- **[AI-Powered Cold Email Generator](https://github.com/v26199/AI-Powered-Cold-Email-Generator)** [![GitHub stars](https://img.shields.io/github/stars/v26199/AI-Powered-Cold-Email-Generator?style=social&color=white)](https://github.com/v26199/AI-Powered-Cold-Email-Generator/stargazers)  
+  Cold email generation agent leveraging GroqCloud and Llama 3 to analyze target websites and generate tailored cold email pitches.
 
+- **[AI BDR Agent](https://github.com/mikegrowsgreens/ai-bdr-agent)** [![GitHub stars](https://img.shields.io/github/stars/mikegrowsgreens/ai-bdr-agent?style=social&color=white)](https://github.com/mikegrowsgreens/ai-bdr-agent/stargazers)  
+  Autonomous AI BDR agent built using n8n, Claude AI, and Google Sheets for automated lead scoring, enrichment, and multi-touch email sequencing.
 
-- **[Composio / agent SDKs for sales](https://github.com/ComposioHQ)**  
-
-  Open SDKs and integration layers that let developers build custom AI agents connected to CRM, email, and outreach tools.
-
-
-
-- **[b2b-sdr-agent-template and similar templates](https://github.com/)**  
-
-  Production-oriented open templates for building WhatsApp/email SDR bots with layered context, memory, and tool use.
-
-
-
-- **[LangChain / CrewAI / AutoGen sales examples](https://github.com/)**  
-
-  Community agents and notebooks that implement research → personalize → sequence pipelines on top of popular agent frameworks.
-
-
-
-- **[Open email sequencing and personalization scripts](https://github.com/)**  
-
-  Self-hosted or script-based tools for generating personalized cold email at scale (pair with your own sending infrastructure).
-
-
-
-- **[Local LLM sales copilots](https://github.com/)**  
-
-  Projects that run research and drafting agents entirely on local or private models for data-sensitive teams.
+- **[Outreach-CLI](https://github.com/LevelVoid/Outreach-CLI)** [![GitHub stars](https://img.shields.io/github/stars/LevelVoid/Outreach-CLI?style=social&color=white)](https://github.com/LevelVoid/Outreach-CLI/stargazers)  
+  Automated cold outreach command-line tool integrating lead enrichment and email sending pipelines.
 
 
 
